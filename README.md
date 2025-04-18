@@ -56,3 +56,7 @@ This project demonstrates how to interface a 16x2 LCD display with the TM4C123G 
 
 ## 🖥️ Output
 Can be viewed in your LCD display
+
+🧑‍💻 Author
+Muhindhar
+KIOT - Department of ECE
